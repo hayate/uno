@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>error.tpl</file>
+        <file>redirect.tpl</file>
+    </qresource>
+</RCC>

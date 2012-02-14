@@ -1,0 +1,6 @@
+Makefile
+build/moc/*.cpp
+build/obj/*.o
+qrc_uno.cpp
+lib/*.so
+uno.pro.user
